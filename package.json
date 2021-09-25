@@ -1,0 +1,20 @@
+{
+  "name": "bot-cmd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "date-events": "^1.0.1",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "jsonfile": "^6.1.0"
+  }
+}
